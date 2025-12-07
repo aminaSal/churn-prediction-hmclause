@@ -27,7 +27,6 @@ Predict customer churn using transactional and behavioural data in order to help
 
 ## 📁 Repository Structure
 
-
 ## ⚠️ Disclaimer
 All data in this project is **fully anonymised or simulated**.  
 No confidential HM Clause data is shared.
