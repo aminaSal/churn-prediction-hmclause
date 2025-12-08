@@ -26,6 +26,12 @@ Predict customer churn using transactional and behavioural data in order to help
 6. **Interpretation & recommendations**
 
 ## 📁 Repository Structure
+churn-prediction-hmclause/
+├── data/          → mock data only (no real HM Clause data)
+├── sql/           → SQL scripts for extraction & cleaning
+├── python/        → preprocessing + model scripts
+├── notebooks/     → EDA & modelling notebooks
+└── visuals/       → ROC curve, confusion matrix, plots
 
 ## ⚠️ Disclaimer
 All data in this project is **fully anonymised or simulated**.  
